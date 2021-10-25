@@ -3,10 +3,10 @@
 // console.log(inch);
 // console.log(feet);
 function inchToFeet(inch) {
-    var feet = inch / 12;
+    const feet = inch / 12;
     return feet;
 }
-var nanaFeet =inchToFeet(256);
+const nanaFeet =inchToFeet(256);
 console.log(nanaFeet);
-var naniFeet =inchToFeet(24);
+const naniFeet =inchToFeet(24);
 console.log(naniFeet);
