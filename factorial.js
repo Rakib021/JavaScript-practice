@@ -12,3 +12,4 @@ return factorial;
 }
 var result = factorial(10);
 console.log(result);
+
